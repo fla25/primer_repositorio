@@ -1,4 +1,4 @@
-/*
+ /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -28,6 +28,9 @@ public class EjerciciosWhileFor3 {
         }
             prf=prf/n;
             JOptionPane.showMessageDialog(null,"la nota promedio del curso es "+prf);
+
+
+            //y aja care monda
 
     }
 }
